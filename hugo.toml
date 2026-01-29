@@ -1,10 +1,10 @@
 baseURL = 'https://alecks131.github.io/'
 languageCode = 'en-us'
 title = 'Under a Glassy Sky'
-theme = 'reimu'
+theme = 'Lofi-code'
 math.enable = true
 
-[params]
+[params.math]
   mathjax = true 
   mermaid = true
 
