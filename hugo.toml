@@ -1,0 +1,6 @@
+baseURL = 'https://alecks131.github.io/'
+languageCode = 'en-us'
+title = 'My Portfolio'
+theme = 'loficode'
+[params]
+    math = true
