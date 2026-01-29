@@ -5,4 +5,8 @@ theme = 'loficode'
 
 [params]
     math = true
-    author = "Aleksei"
+    [params.author]
+        name = "Aleksei"
+        image = "avatar.jpg"
+        bio = "Physics and Math Student"
+
