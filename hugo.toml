@@ -10,3 +10,12 @@ theme = 'loficode'
         image = "avatar.jpg"
         bio = "Physics and Math Student"
 
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+[[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 20
