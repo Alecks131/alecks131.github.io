@@ -1,6 +1,8 @@
 baseURL = 'https://alecks131.github.io/'
 languageCode = 'en-us'
-title = 'My Portfolio'
+title = 'Under a Glassy Sky'
 theme = 'loficode'
+
 [params]
     math = true
+    author = "Aleksei"
