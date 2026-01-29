@@ -1,0 +1,19 @@
+baseURL = 'https://alecks131.github.io/'
+languageCode = 'en-us'
+title = 'Under a Glassy Sky'
+theme = 'reimu'
+math.enable = true
+
+[params]
+  mathjax = true 
+  mermaid = true
+
+[[params.social]]
+  name = "GitHub"
+  icon = "fab fa-github"
+  link = "https://github.com/your-username"
+
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fab fa-linkedin"
+  link = "https://linkedin.com/in/your-username"  

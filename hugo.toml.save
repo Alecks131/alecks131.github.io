@@ -1,6 +1,0 @@
-baseURL = 'https://Alecks131.github.io/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'blowfish'
-math.enable = true
-
