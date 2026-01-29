@@ -1,7 +1,7 @@
 baseURL = 'https://alecks131.github.io/'
 languageCode = 'en-us'
 title = 'Under a Glassy Sky'
-theme = 'Lofi-code'
+theme = 'lofi-code'
 math.enable = true
 
 [params.math]
