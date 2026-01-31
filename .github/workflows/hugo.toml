@@ -1,0 +1,23 @@
+baseURL = "https://alecks131.github.io/"
+theme = "KeepIt"
+title = "Sekalie"
+languageCode = "en"
+
+[params]
+    # Theme appearance (light / dark / auto)
+    defaultTheme = "auto"
+    # Enables math support (LaTeX)
+    math = true
+
+[author]
+    name = "Aleksei"
+    link = "https://github.com/Alecks131"
+
+[[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 1
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
