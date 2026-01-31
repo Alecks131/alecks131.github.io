@@ -1,9 +1,11 @@
 baseURL = 'https://alecks131.github.io/'
 languageCode = 'en'
 title = 'Sekalie'
-theme = 'hugo-coder'  # This MUST match the themes/hugo-coder folder
+theme = "hugo-coder"  # This MUST match the themes/hugo-coder folder
 
 [params]
     author = "Aleksei"
     info = "Physics Student"
     math = true  # Enables LaTeX support
+
+
