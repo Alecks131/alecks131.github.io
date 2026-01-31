@@ -1,25 +1,9 @@
 baseURL = 'https://alecks131.github.io/'
 languageCode = 'en'
-title = 'Under a Glassy Sky'
-theme = 'coder'
+title = 'Sekalie'
+theme = 'hugo-coder'  # This MUST match the themes/hugo-coder folder
 
 [params]
     author = "Aleksei"
-    description = "Physics Student & Developer"
-    keywords = "blog,developer,personal,physics"
-    info = "Physics Student & Tech Enthusiast"
-    avatarURL = "images/avatar.jpg" # Place your photo in static/images/avatar.jpg
-    footerContent = "Built with Hugo & Coder"
-    
-    # Enable Math (LaTeX) Support
-    math = true
-
-[[menu.main]]
-    name = "About"
-    weight = 1
-    url = "about/"
-
-[[menu.main]]
-    name = "Posts"
-    weight = 2
-    url = "posts/"
+    info = "Physics Student"
+    math = true  # Enables LaTeX support
