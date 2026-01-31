@@ -1,21 +1,25 @@
 baseURL = 'https://alecks131.github.io/'
-languageCode = 'en-us'
+languageCode = 'en'
 title = 'Under a Glassy Sky'
-theme = 'loficode'
+theme = 'coder'
 
 [params]
+    author = "Aleksei"
+    description = "Physics Student & Developer"
+    keywords = "blog,developer,personal,physics"
+    info = "Physics Student & Tech Enthusiast"
+    avatarURL = "images/avatar.jpg" # Place your photo in static/images/avatar.jpg
+    footerContent = "Built with Hugo & Coder"
+    
+    # Enable Math (LaTeX) Support
     math = true
-    [params.author]
-        name = "Aleksei"
-        image = "avatar.jpg"
-        bio = "Physics and Math Student"
 
 [[menu.main]]
     name = "About"
-    url = "/about/"
-    weight = 10
+    weight = 1
+    url = "about/"
 
 [[menu.main]]
     name = "Posts"
-    url = "/posts/"
-    weight = 20
+    weight = 2
+    url = "posts/"

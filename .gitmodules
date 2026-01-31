@@ -2,3 +2,6 @@
 	path = themes/loficode
 	url = https://github.com/raisingpixels/loficode-hugo-theme.git
 
+[submodule "themes/hugo-coder"]
+	path = themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
